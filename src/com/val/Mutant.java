@@ -4,6 +4,6 @@ public class Mutant extends Human {
 
     public Mutant(){
         super();
-        System.out.println("I am a mutant");
+//        System.out.println("I am a mutant");
     }
 }
